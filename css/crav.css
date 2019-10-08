@@ -1,0 +1,22 @@
+.navbar-brand{
+	padding: 0 !important;
+}
+
+.sp-layer{
+	text-align: center;
+}
+
+img.logo {
+  height: 60px;
+}
+
+.arvin-copyright-info span{font-family: arial;}
+
+div#contacto {
+  padding-bottom: 15px;
+  background-color: #3e5c58;
+}
+
+h1{
+	text-transform: uppercase;
+}
